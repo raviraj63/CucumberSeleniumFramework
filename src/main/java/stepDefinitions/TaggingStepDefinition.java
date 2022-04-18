@@ -15,8 +15,13 @@ public class TaggingStepDefinition {
 //    public void afterScenario(){
 //        System.out.println("This will run after the Scenario");
 //    }
+
+	//	@After
+//    public void afterScenario(){
+//        System.out.println("This will run after the Scenario");
+//    }
 public class TaggingStepDefinition1 {
-	//	@Before
+		@Before
 //    public void beforeScenario(){
 //        System.out.println("This will run before the Scenario");
 //    }
